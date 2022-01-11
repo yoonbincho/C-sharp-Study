@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.pdb

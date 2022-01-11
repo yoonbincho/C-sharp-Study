@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\bin\Debug\018_Data_object.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\bin\Debug\018_Data_object.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\bin\Debug\018_Data_object.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\obj\Debug\018_Data_object.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\obj\Debug\018_Data_object.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\obj\Debug\018_Data_object.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\018_Data_object\obj\Debug\018_Data_object.csproj.AssemblyReference.cache

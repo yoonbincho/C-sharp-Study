@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\bin\Debug\007_Variable2.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\bin\Debug\007_Variable2.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\bin\Debug\007_Variable2.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\obj\Debug\007_Variable2.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\obj\Debug\007_Variable2.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\obj\Debug\007_Variable2.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\007_Variable2\obj\Debug\007_Variable2.csproj.AssemblyReference.cache

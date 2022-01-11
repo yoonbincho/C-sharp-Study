@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb

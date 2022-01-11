@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.AssemblyReference.cache

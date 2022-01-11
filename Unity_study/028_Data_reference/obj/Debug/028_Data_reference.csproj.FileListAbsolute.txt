@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.AssemblyReference.cache

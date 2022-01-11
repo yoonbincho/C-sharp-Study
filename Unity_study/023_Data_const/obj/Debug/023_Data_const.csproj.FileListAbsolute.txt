@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\bin\Debug\023_Data_const.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\obj\Debug\023_Data_const.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\obj\Debug\023_Data_const.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\023_Data_const\obj\Debug\023_Data_const.pdb

@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\031_ReadLine2\bin\Debug\031_ReadLine2.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\031_ReadLine2\bin\Debug\031_ReadLine2.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\031_ReadLine2\bin\Debug\031_ReadLine2.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\031_ReadLine2\obj\Debug\031_ReadLine2.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\031_ReadLine2\obj\Debug\031_ReadLine2.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\031_ReadLine2\obj\Debug\031_ReadLine2.pdb

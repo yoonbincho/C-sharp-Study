@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.pdb

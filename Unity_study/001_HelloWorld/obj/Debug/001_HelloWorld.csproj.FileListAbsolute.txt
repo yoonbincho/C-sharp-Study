@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\001_HelloWorld\obj\Debug\001_HelloWorld.pdb

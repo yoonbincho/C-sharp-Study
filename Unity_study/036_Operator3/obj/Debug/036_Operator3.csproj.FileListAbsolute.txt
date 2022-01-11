@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\bin\Debug\036_Operator3.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\bin\Debug\036_Operator3.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\bin\Debug\036_Operator3.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\obj\Debug\036_Operator3.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\obj\Debug\036_Operator3.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\obj\Debug\036_Operator3.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\036_Operator3\obj\Debug\036_Operator3.pdb

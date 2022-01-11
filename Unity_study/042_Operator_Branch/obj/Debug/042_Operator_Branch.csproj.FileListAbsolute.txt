@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\bin\Debug\042_Operator_Branch.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\bin\Debug\042_Operator_Branch.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\bin\Debug\042_Operator_Branch.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\042_Operator_Branch\obj\Debug\042_Operator_Branch.pdb

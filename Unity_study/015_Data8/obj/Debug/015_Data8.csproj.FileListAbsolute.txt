@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\015_Data8\bin\Debug\015_Data8.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\015_Data8\bin\Debug\015_Data8.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\015_Data8\bin\Debug\015_Data8.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\015_Data8\obj\Debug\015_Data8.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\015_Data8\obj\Debug\015_Data8.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\015_Data8\obj\Debug\015_Data8.pdb

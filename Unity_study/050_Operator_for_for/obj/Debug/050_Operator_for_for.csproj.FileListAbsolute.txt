@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\bin\Debug\050_Operator_for_for.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\bin\Debug\050_Operator_for_for.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\bin\Debug\050_Operator_for_for.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\obj\Debug\050_Operator_for_for.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\obj\Debug\050_Operator_for_for.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\obj\Debug\050_Operator_for_for.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\050_Operator_for_for\obj\Debug\050_Operator_for_for.pdb

@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\051_Operator_while(true)\bin\Debug\051_Operator_while(true).exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\051_Operator_while(true)\bin\Debug\051_Operator_while(true).exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\051_Operator_while(true)\bin\Debug\051_Operator_while(true).pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\051_Operator_while(true)\obj\Debug\051_Operator_while(true).csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\051_Operator_while(true)\obj\Debug\051_Operator_while(true).exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\051_Operator_while(true)\obj\Debug\051_Operator_while(true).pdb

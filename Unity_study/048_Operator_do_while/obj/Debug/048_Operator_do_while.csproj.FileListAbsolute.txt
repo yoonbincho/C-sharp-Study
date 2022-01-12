@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\048_Operator_do_while\bin\Debug\048_Operator_do_while.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\048_Operator_do_while\bin\Debug\048_Operator_do_while.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\048_Operator_do_while\bin\Debug\048_Operator_do_while.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\048_Operator_do_while\obj\Debug\048_Operator_do_while.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\048_Operator_do_while\obj\Debug\048_Operator_do_while.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\048_Operator_do_while\obj\Debug\048_Operator_do_while.pdb

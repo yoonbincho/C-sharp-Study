@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\bin\Debug\052_Operator_break.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.AssemblyReference.cache

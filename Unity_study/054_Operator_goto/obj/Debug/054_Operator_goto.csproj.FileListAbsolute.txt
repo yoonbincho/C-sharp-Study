@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.pdb

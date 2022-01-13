@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\bin\Debug\CheckPoint02.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\bin\Debug\CheckPoint02.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\bin\Debug\CheckPoint02.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\obj\Debug\CheckPoint02.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\obj\Debug\CheckPoint02.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.AssemblyReference.cache

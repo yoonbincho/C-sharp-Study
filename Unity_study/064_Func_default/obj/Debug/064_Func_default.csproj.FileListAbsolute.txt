@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\bin\Debug\064_Func_default.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\bin\Debug\064_Func_default.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\bin\Debug\064_Func_default.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\obj\Debug\064_Func_default.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\obj\Debug\064_Func_default.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\obj\Debug\064_Func_default.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\064_Func_default\obj\Debug\064_Func_default.pdb

@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\bin\Debug\063_Func_out.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\obj\Debug\063_Func_out.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\obj\Debug\063_Func_out.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\obj\Debug\063_Func_out.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\063_Func_out\obj\Debug\063_Func_out.pdb

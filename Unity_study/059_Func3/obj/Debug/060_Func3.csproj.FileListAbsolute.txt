@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\059_Func3\bin\Debug\059_Func3.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\059_Func3\bin\Debug\059_Func3.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\059_Func3\bin\Debug\059_Func3.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\059_Func3\obj\Debug\060_Func3.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\059_Func3\obj\Debug\059_Func3.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\059_Func3\obj\Debug\059_Func3.pdb

@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\066_Func_params\bin\Debug\066_Func_params.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\066_Func_params\bin\Debug\066_Func_params.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\066_Func_params\bin\Debug\066_Func_params.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\066_Func_params\obj\Debug\066_Func_params.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\066_Func_params\obj\Debug\066_Func_params.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\066_Func_params\obj\Debug\066_Func_params.pdb

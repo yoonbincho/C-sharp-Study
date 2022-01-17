@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.pdb

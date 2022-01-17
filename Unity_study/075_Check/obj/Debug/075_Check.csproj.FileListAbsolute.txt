@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\bin\Debug\075_Check.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\bin\Debug\075_Check.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\bin\Debug\075_Check.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\obj\Debug\075_Check.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\obj\Debug\075_Check.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\obj\Debug\075_Check.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\075_Check\obj\Debug\075_Check.pdb

@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\bin\Debug\077_Class.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\bin\Debug\077_Class.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\bin\Debug\077_Class.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\obj\Debug\077_Class.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\obj\Debug\077_Class.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\obj\Debug\077_Class.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\077_Class\obj\Debug\077_Class.pdb

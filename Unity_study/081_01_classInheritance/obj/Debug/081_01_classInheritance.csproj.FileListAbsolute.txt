@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\bin\Debug\081_01_classInheritance.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\bin\Debug\081_01_classInheritance.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\bin\Debug\081_01_classInheritance.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\obj\Debug\081_01_classInheritance.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\obj\Debug\081_01_classInheritance.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\obj\Debug\081_01_classInheritance.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\081_01_classInheritance\obj\Debug\081_01_classInheritance.pdb

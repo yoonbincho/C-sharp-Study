@@ -1,0 +1,6 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\087_extension\bin\Debug\087_extension.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\087_extension\bin\Debug\087_extension.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\087_extension\bin\Debug\087_extension.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\087_extension\obj\Debug\087_extension.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\087_extension\obj\Debug\087_extension.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\087_extension\obj\Debug\087_extension.pdb

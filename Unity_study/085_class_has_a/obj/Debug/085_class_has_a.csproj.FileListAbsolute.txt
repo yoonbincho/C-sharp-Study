@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\bin\Debug\085_class_has_a.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\bin\Debug\085_class_has_a.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\bin\Debug\085_class_has_a.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.pdb

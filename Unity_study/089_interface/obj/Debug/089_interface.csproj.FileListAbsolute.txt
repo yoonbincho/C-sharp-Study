@@ -1,0 +1,7 @@
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\bin\Debug\089_interface.exe.config
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\bin\Debug\089_interface.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\bin\Debug\089_interface.pdb
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\obj\Debug\089_interface.csproj.AssemblyReference.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\obj\Debug\089_interface.csproj.CoreCompileInputs.cache
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\obj\Debug\089_interface.exe
+C:\Users\82106\Desktop\유니티\코드\FastCampuse_Sample_CS\089_interface\obj\Debug\089_interface.pdb
